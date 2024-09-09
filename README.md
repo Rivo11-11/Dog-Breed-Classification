@@ -1,5 +1,5 @@
-# Dog Breed Identification
-
+# Dog Breed Identification 
+## Link to Kaggle : https://www.kaggle.com/code/rafik11/transfer-learning-inceptionv3/notebook
 This repository contains a complete pipeline for identifying dog breeds from images using deep learning techniques. The project uses transfer learning with the InceptionV3 model to classify images into different dog breeds.
 
 ## Table of Contents
